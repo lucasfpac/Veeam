@@ -40,7 +40,7 @@ folder_sync_project/
 
    ```sh
    git clone https://github.com/lucasfpac/Veeam.git
-   cd folder_sync
+   cd Veeam
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
